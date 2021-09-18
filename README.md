@@ -37,5 +37,3 @@ allure serve allure-results
 ## Report View
 ![alluresult](https://user-images.githubusercontent.com/48891202/85232576-b6ae0600-b421-11ea-8a5e-913df13d30cd.png)
 ![allureresult2](https://user-images.githubusercontent.com/48891202/85232626-245a3200-b422-11ea-90f1-de4c649f3534.png)
-
-You will find the automation <a href="https://youtu.be/VzlgCcbHZWU" target="_blank">video</a> here.
